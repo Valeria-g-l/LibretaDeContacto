@@ -4,6 +4,8 @@ import java.util.Calendar;
 import java.util.GregorianCalendar;
 
 public class Familiar extends Persona {
+
+
     // Atributos
     private String parentesco;
     private String tipoDeSangre;
